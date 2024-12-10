@@ -1,0 +1,27 @@
+.stylecomponenet {
+ text-align: center;
+  margin: 100px;
+}
+.imagestyles{
+  border:3px solid rgb(53, 187, 235);
+  transition: cubic-bezier();
+}
+.inputstyles {
+ margin:30px;
+}
+.input{
+  padding:19px 60px;
+  border-radius: 6px;
+}
+.buttonstyles {
+  padding: 15px 30px;
+  border-radius: 6px;
+  background-color: blue;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.buttonstyles:hover {
+  opacity: 0.6;
+}
